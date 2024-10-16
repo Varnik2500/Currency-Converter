@@ -12,6 +12,7 @@ This is a simple currency converter web application built using HTML, CSS, and J
 ## Demo
 
 Upon opening the web app, users can enter the amount they wish to convert, choose the source and target currencies, and click the "Get Exchange Rate" button to view the converted amount.
+Try it here (https://currency-converter-by-varnik.netlify.app/)
 
 ## Files and Structure
 
