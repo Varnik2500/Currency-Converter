@@ -42,7 +42,7 @@ Upon opening the web app, users can enter the amount they wish to convert, choos
 
 ## Screenshots
 
-![Currency Converter Screenshot](screenshot.png)
+<img src="screenshots/img-1.png">
 
 ## Technologies Used
 
